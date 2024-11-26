@@ -23,6 +23,6 @@ The applications provided include:
 5. Data gathering and storage;
 6. Offline processing.
 
-1 to 4, above, are real-time plots at c. 5-10 Hz refresh rate.
+1 to 4, above, produce real-time plots at c. 5-10 Hz refresh rate.
 
 This is more than enough to get you started and on the way to creating your own unique 60 GHz radar project!
