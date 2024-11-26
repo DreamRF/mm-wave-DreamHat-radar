@@ -6,7 +6,7 @@ This PiHat allows direct access to the Infineon chip, via 50 MHz SPI, to unleash
 
 A range of example Python applications is available here, to get you started:
 
-www.ee.ucl.ac.uk/~ucee364/DreamRF/mmw-hat.zip
+http://www.ee.ucl.ac.uk/~ucee364/DreamRF/mmw-hat.zip
 
 The application script above can be installed as a disk image using Raspberry Pi Imager:
 
