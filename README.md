@@ -26,3 +26,11 @@ The applications provided include:
 1 to 4, above, produce real-time plots at c. 5-10 Hz refresh rate.
 
 This is more than enough to get you started and on the way to creating your own unique 60 GHz radar project!
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
