@@ -27,4 +27,5 @@ The applications provided include:
 
 This is more than enough to get you started and on the way to creating your own unique 60 GHz radar project!
 
-!(http://www.ee.ucl.ac.uk/~ucee364/DreamRF/radarpic.jpg "Logo Title Text 1")
+![](http://www.ee.ucl.ac.uk/~ucee364/DreamRF/radarpic.jpg "Logo Title Text 1")
+
