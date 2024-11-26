@@ -6,7 +6,7 @@ This PiHat allows direct access to the Infineon chip, via 50 MHz SPI, to unleash
 
 A range of example Python applications is available here, to get you started:
 
-www.ee.ucl.ac.uk/~ucee364/DreamRF/mmw-hat.zip
+www.ee.ucl.ac.uk/~ucee364/DreamRF/mmw-hat.zip (if necessary, copy and paste this link into a new browser window).
 
 The application script above can be installed as a disk image using Raspberry Pi Imager:
 
@@ -26,7 +26,3 @@ The applications provided include:
 1 to 4, above, are real-time plots at c. 5-10 Hz refresh rate.
 
 This is more than enough to get you started and on the way to creating your own unique 60 GHz radar project!
-
-
-
-
