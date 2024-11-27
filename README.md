@@ -25,7 +25,8 @@ The applications provided include:
 
 1 to 4, above, produce real-time plots at c. 5-10 Hz refresh rate.
 
+The example scripts are also available separately in the MMW-HAT.zip file.
+
 This is more than enough to get you started and on the way to creating your own unique 60 GHz radar project!
 
 ![](http://www.ee.ucl.ac.uk/~ucee364/DreamRF/radarpic.jpg "Logo Title Text 1")
-
