@@ -4,7 +4,7 @@ The DreamHat+ radar is a 60 GHz FMCW radar module based on the impressive Infine
 
 This PiHat allows direct access to the Infineon chip, via 50 MHz SPI, to unleash the full power of this chip.
 
-A range of example Python applications is available here, to get you started:
+A range of example Python applications is available here, as a disk image download, to get you started:
 
 http://www.ee.ucl.ac.uk/~ucee364/DreamRF/mmw-hat.zip (if necessary, copy and paste this link into a new browser window).
 
