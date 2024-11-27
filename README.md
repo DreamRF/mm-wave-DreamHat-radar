@@ -17,13 +17,13 @@ just extract the .zip file above and install on your SD card using 'select a cus
 The applications provided include:
 
 1. range-Doppler plot, the classic radar visualisation;
-2. Doppler-azimuth plot;
-3. Doppler-elevation plot;
-4. xy plot with tracking and persistence;
-5. Data gathering and storage;
-6. Offline processing.
+2. xy plot with tracking and persistence;
+3. Doppler-azimuth plot;
+4. Doppler-range plot;
+6. Data gathering and storage;
+7. Offline processing.
 
-1 to 4, above, produce real-time plots at c. 5-10 Hz refresh rate.
+1 to 4, above, produce real-time radar images at c. 5-10 Hz refresh rate.
 
 The example scripts are also available separately in the MMW-HAT.zip file.
 
