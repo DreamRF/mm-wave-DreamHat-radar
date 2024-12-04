@@ -25,7 +25,7 @@ The applications provided include:
 
 1 to 4, above, produce real-time radar images at c. 5-10 Hz refresh rate.
 
-The example scripts are also available separately in the MMW-HAT.zip file in this repository. If you use these files then make sure to set up the environment as follows:
+The example scripts are also available separately in the MMW-HAT.zip file in this repository. If you use these scripts then make sure to set up the environment as follows:
 
 sudo apt-get update
 sudo apt-get install -y python3-numba
