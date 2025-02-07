@@ -28,8 +28,11 @@ The applications provided include:
 The example scripts are also available separately in the MMW-HAT.zip file in this repository. If you use these scripts then make sure to set up the environment as follows:
 
 sudo apt-get update
+
 sudo apt-get install -y python3-numba
+
 sudo apt-get install -y python3-pyqtgraph
+
 sudo apt-get install -y python3-pyfftw
 
 This is more than enough to get you started and on the way to creating your own unique 60 GHz radar project!
